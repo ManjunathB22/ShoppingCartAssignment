@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CartTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-10T07:03:55" hostname="Manjunaths-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="addProductTotheCart" classname="CartTest" time="0.008"/>
+  <system-out><![CDATA[Items in the CartCustomerCart@40f79b67[Apple@7be79f2, Newspaper@725fce30, Milk@2e1fdd28]
+Apple Total is :90.0
+NewsPaper Total is :10.0
+Milk Total is :20.0
+Total Cart Price is 120.0
+Total Cart Price after discount is 114.0
+Total Cart Price is 120.0
+Total Cart Price after discount is 114.0
+Your Wallet balance is 886.0
+Your Wallet balance after adding balance: 986.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
